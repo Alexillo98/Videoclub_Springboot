@@ -15,15 +15,17 @@ public class Pelicula {
     public Pelicula() {
     }
 
-    public Pelicula(Long id, String nombre, int anyo) {
+    public Pelicula(Long id, String nombre, int anyo,Genero genero) {
         this.id = id;
         this.nombre = nombre;
         this.anyo = anyo;
+        this.genero = genero;
     }
 
-    public Pelicula(String nombre, int anyo) {
+    public Pelicula(String nombre, int anyo,Genero genero) {
         this.nombre = nombre;
         this.anyo = anyo;
+        this.genero = genero;
     }
 
     public Long getId() {
@@ -52,7 +54,7 @@ public class Pelicula {
 
     @Override
     public String toString(){
-        return "ID: " + id + "\n\t NOMBRE: " + nombre
-                + "AÑO: " + anyo;
+        return "ID: " + id + "\n\t -> NOMBRE: " + nombre
+                + " || AÑO: " + anyo + " || " + genero;
     }
 }

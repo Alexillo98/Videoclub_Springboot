@@ -8,4 +8,6 @@ import java.util.Optional;
 
 @Component
 public interface PeliculaRepository extends CrudRepository<Pelicula, Long> {
+
+    public default void deletePeliculaById(int id){};
 }

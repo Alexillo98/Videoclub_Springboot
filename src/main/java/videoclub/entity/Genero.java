@@ -42,6 +42,6 @@ public class Genero {
 
     @Override
     public String toString(){
-        return "GÉNERO: " + nombre;
+        return nombre;
     }
 }
