@@ -7,9 +7,6 @@
     <list default="true" id="5e013aa1-6521-4e30-8f6b-cf41878399a2" name="Changes" comment="Videoclub Peliculas-Generos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/videoclub/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/videoclub/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/videoclub/entity/Genero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/videoclub/entity/Genero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/videoclub/entity/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/videoclub/entity/Pelicula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/videoclub/repository/PeliculaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/videoclub/repository/PeliculaRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Alexillo98&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Alexillo98/Videoclub_Springboot.git&quot;,
+    &quot;accountId&quot;: &quot;023355eb-b9b6-47ef-a81d-39ce37745b81&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -38,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -54,6 +64,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -64,18 +77,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DAW\PROGRAMACION\Videoclub_Springboot\src\main\resources" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="videoclub" />
     </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-22-openjdk-22-4caba194b151-6fbd92ee" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
